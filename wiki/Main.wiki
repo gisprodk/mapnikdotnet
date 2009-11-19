@@ -1,0 +1,15 @@
+#summary Main page
+
+= MapnikDotNet =
+
+Beginnings of a fully supported .Net wrapper of the Mapnik DLL.  
+
+
+= Details =
+
+Getting started notes:
+  * Project compiled in Visual Studio 2008
+  * Release configuration is only config currently setup correctly
+ 
+
+More to come...

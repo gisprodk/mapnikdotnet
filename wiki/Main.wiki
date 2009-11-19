@@ -10,6 +10,8 @@ Beginnings of a fully supported .Net wrapper of the Mapnik DLL.  Check out the M
 Getting started notes:
   * Project compiled in Visual Studio 2008
   * Release configuration is only config currently setup correctly
+  * You need to go find a bunch of libraries to get things compiling
+  * Currently builds against Mapnik 0.6.1.
  
 
 More to come...

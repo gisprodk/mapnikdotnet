@@ -2,7 +2,7 @@
 
 = MapnikDotNet =
 
-Beginnings of a fully supported .Net wrapper of the Mapnik DLL.  
+Beginnings of a fully supported .Net wrapper of the Mapnik DLL.  Check out the Mapnik [http://mapnik.org website] for more details about Mapnik.
 
 
 = Details =

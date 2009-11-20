@@ -14,4 +14,18 @@ Getting started notes:
   * Currently builds against Mapnik 0.6.1.
  
 
+
+= Prereqs =
+Below are some of the prereqs needed to get the solution to compile in VS.
+
+  # Mapnik 6.1
+  # GnuWin32 ([http://gnuwin32.sourceforge.net GnuWin32])
+    # Freetype
+    # libpng
+    # Others unknown for now
+  # Boost 1.38 (I use the install from [http://www.boostpro.com/ Boost Pro])
+  # icu 4.0.1
+  
+
+
 More to come...
